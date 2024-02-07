@@ -1,8 +1,8 @@
-prefix=C:/DATA SCIENCE PROJECT FOLDER/YTtranscriber/venv/Library
-exec_prefix=C:/DATA SCIENCE PROJECT FOLDER/YTtranscriber/venv/Library
-libdir=C:/DATA SCIENCE PROJECT FOLDER/YTtranscriber/venv/Library/lib
-sharedlibdir=C:/DATA SCIENCE PROJECT FOLDER/YTtranscriber/venv/Library/lib
-includedir=C:/DATA SCIENCE PROJECT FOLDER/YTtranscriber/venv/Library/include
+prefix=C:/DATA_SCIENCE_PROJECT_FOLDER/YTtranscriber/venv/Library
+exec_prefix=C:/DATA_SCIENCE_PROJECT_FOLDER/YTtranscriber/venv/Library
+libdir=C:/DATA_SCIENCE_PROJECT_FOLDER/YTtranscriber/venv/Library/lib
+sharedlibdir=C:/DATA_SCIENCE_PROJECT_FOLDER/YTtranscriber/venv/Library/lib
+includedir=C:/DATA_SCIENCE_PROJECT_FOLDER/YTtranscriber/venv/Library/include
 
 Name: zlib
 Description: zlib compression library
