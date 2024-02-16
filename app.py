@@ -1,4 +1,5 @@
 import streamlit as  st
+import streamlit_authenticator as stauth
 from dotenv import load_dotenv
 
 load_dotenv() ##load all the nevironment variables
